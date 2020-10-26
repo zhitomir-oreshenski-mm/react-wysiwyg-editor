@@ -1,1 +1,1 @@
-# react-wysiwyg-editor
+# React Whysiwyg Rich Editor
